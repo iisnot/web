@@ -1,12 +1,33 @@
 ---
-title: "web"
+title: "Zongliang Zhang"
+image: images\profile.png
+toc: False ## 取消目录设置
+
+about:
+  id: hero-heading
+  template: jolla
+  links:
+    - icon: pin-map-fill
+      text: Zhuhai-China
+    - icon: building-fill
+      text: Beijing normal university
+    - aria-label: https://orcid.org/assets/vectors/orcid.logo.icon.svg
+      text: ORCID
+      href: https://orcid.org/0009-0000-3145-2606
+    - icon: envelope
+      text: Email
+      href: zongliang-zhang@mail.bnu.edu.cn
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+I am currently a second-year graduate student at Beijing Normal
+University with a research focus on food security.
+:::
 
-To learn more about Quarto websites visit
-<https://quarto.org/docs/websites>.
+## **🎓**Education
 
-```{r}
-1 + 1
-```
+2023-09 to present \| Beijing Normal University \| Master’s student
+(School Of National Safety And Emergency Management)
+
+2019-09 to 2023-06 \| Nanjing University of Information Science and
+Technology \| Bachelor of Science (Changwang School of Honors)

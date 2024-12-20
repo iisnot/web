@@ -1,9 +1,4 @@
 ---
 title: "About"
+date: last-modified
 ---
-
-About this site
-
-```{r}
-1 + 1
-```

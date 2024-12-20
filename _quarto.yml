@@ -1,14 +1,20 @@
 project:
   type: website
+  
 
 website:
-  title: "web"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - Publications.qmd
+      - Talks.qmd
+  page-footer:  ## 页脚设置
+    background: "#ccccd6"
+    center: 
+      - text: 'About'
+        href: about.qmd
+        
 format:
   html:
     theme: cosmo
@@ -17,3 +23,7 @@ format:
 
 editor: visual
 
+## To do
+# 页脚处增加最后一次更新日期
+# 只在主页显示，其他不显示
+# publications处图片和列表并列显示
