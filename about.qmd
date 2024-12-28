@@ -1,4 +1,4 @@
 ---
 title: "About"
-date: last-modified
+date: today
 ---

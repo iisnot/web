@@ -11,8 +11,7 @@ about:
       text: Zhuhai-China
     - icon: building-fill
       text: Beijing normal university
-    - aria-label: https://orcid.org/assets/vectors/orcid.logo.icon.svg
-      text: ORCID
+    - text: "{{< ai orcid color=#9ad251 >}} ORCID"
       href: https://orcid.org/0009-0000-3145-2606
     - icon: envelope
       text: Email

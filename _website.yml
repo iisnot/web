@@ -1,0 +1,13 @@
+website:
+  # favicon: logo.png # 网站图表
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+      - Talks.qmd
+  page-footer:  ## 页脚设置
+    # background: "#ccccd6"
+    right: 
+      - text: 'Last update'
+        href: about.qmd

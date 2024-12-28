@@ -2,18 +2,8 @@ project:
   type: website
   output-dir: docs
 
-website:
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - Publications.qmd
-      - Talks.qmd
-  page-footer:  ## 页脚设置
-    background: "#ccccd6"
-    center: 
-      - text: 'About'
-        href: about.qmd
+metadata-files:
+  - _website.yml
         
 format:
   html:

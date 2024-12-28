@@ -5,12 +5,19 @@ toc: False
 
 ## **📝**Journal articles
 
+::::: columns
+::: {.column width="50%"}
+![](images/Figure%20abstract%20of%20article1.jpg){alt="Figure abstract of article Considerable energy crop production potentials in the Russian Far East"
+align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
 -   `Zhang, Z.`, Xu, J., Jin, S., Zhuang, H., Li, S., Wu, X., &
     Zhang, Z. (2024). Considerable energy crop production potentials in
     the Russian Far East. *Biomass and Bioenergy*, *189*, 107365.
     https://doi.org/10.1016/j.biombioe.2024.107365
-    ![](images/Figure%20abstract%20of%20article1.jpg){alt="Figure abstract of article Considerable energy crop production potentials in the Russian Far East"
-    align="center" width="500"}
+:::
+:::::
 
 -   Zhuang, H., Zhang, Z., Han, J., Cheng, F., Li, S., Wu, H., Mei, Q.,
     Song, J., Wu, X., `Zhang, Z.`, & Xu, J. (2024). Stagnating rice
