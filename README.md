@@ -8,4 +8,4 @@
 
 -   [x] publications处图片和列表并列显示
 
--   [x] ORCID 图表
+-   [x] ORCID 图标

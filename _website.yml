@@ -1,5 +1,5 @@
 website:
-  # favicon: logo.png # 网站图表
+  # favicon: logo.png # 网站图标
   navbar:
     left:
       - href: index.qmd

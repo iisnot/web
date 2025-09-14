@@ -2,10 +2,9 @@
 title: "Talks and presentations"
 ---
 
--   2024.8.3, The 6th Environmental Geography Youth Forum, Yanji, China,
-    Assessment of bioenergy development potential in high latitude
-    regions in the Russian Far East.
+-   2024.8.3, The 6th Environmental Geography Youth Forum, Yanji, China, Assessment of bioenergy development potential in high latitude regions in the Russian Far East.
 
--   2024.12.15, Ecological Security Postgraduate Academic Annual
-    Conference, Zhuhai, China, Considerable energy crop production
-    potentials in the Russian Far East.
+-   2024.12.15, Ecological Security Postgraduate Academic Annual Conference, Zhuhai, China, Considerable energy crop production potentials in the Russian Far East. `Excellent Report Award` .\
+    <!--# NEWs: 聚焦生态安全前沿，携手共促学术发展 —— 北京师范大学国安院生态安全研究生学术年会圆满举行 -->
+
+-   2025.4.28, EGU General Assembly 2025, Vienna, Austria, Assessing the Impact of Long-Term Wind Speed Changes on Crop Yields in China.
