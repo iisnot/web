@@ -19,7 +19,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am currently a second-year graduate student at Beijing Normal
+I am currently a third-year graduate student at Beijing Normal
 University with a research focus on food security.
 :::
 
