@@ -8,9 +8,9 @@ about:
   template: jolla
   links:
     - icon: pin-map-fill
-      text: Zhuhai, China
+      text: Beijing, China
     - icon: building-fill
-      text: Beijing Normal University
+      text: Peking University
     - text: "{{< ai orcid color=#9ad251 >}} ORCID"
       href: https://orcid.org/0009-0000-3145-2606
     - icon: github
@@ -18,20 +18,26 @@ about:
       aria-label: GitHub
     - icon: envelope-fill
       text: Email
-      href: "mailto:zongliang-zhang@mail.bnu.edu.cn"
+      href: "mailto:zhangzl26@stu.pku.edu.cn"
 ---
 
 ::: {#hero-heading}
-I am currently a third-year graduate student at Beijing Normal
-University with a research focus on food security.
+I am currently a doctoral student at the College of Urban and
+Environmental Sciences, Peking University, with a research focus on
+food security.
 :::
 
 ## 🎓 Education
 
 ::: {.timeline}
 ::: {.timeline-item}
-**Sep 2023 – Present**  
-*Beijing Normal University* — Master’s student, School of National Safety and Emergency Management
+**Sep 2026 – Present**  
+*Peking University* — PhD student, College of Urban and Environmental Sciences
+:::
+
+::: {.timeline-item}
+**Sep 2023 – Jun 2026**  
+*Beijing Normal University* — Master of Engineering, School of National Safety and Emergency Management
 :::
 
 ::: {.timeline-item}

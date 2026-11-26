@@ -9,11 +9,8 @@ website:
       - Talks.qmd
   page-footer:  ## 页脚设置
     background: secondary
-    left: "&copy; Zongliang Zhang"
+    left: "&copy; Zongliang Zhang &nbsp;·&nbsp; Last updated 2026-11-26"
     right:
-      - icon: github
-        href: https://github.com/iisnot
-        aria-label: GitHub
       - icon: envelope-fill
-        href: "mailto:zongliang-zhang@mail.bnu.edu.cn"
+        href: "mailto:zhangzl26@stu.pku.edu.cn"
         aria-label: Email
