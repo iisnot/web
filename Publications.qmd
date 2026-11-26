@@ -4,49 +4,36 @@ toc: False
 bibliography: references.bib
 ---
 
-## **📝**Journal articles
+## 📝 Journal articles
 
 <!--# 引用格式为Zotero中的American Psychological Association (APA) 7th edition -->
 
-::::: columns
-::: {.column width="50%"}
-![](images/Figure%20abstract%20of%20article2.jpg){alt="Figure abstract of article Decadal changes in wind speed have offset and then aggravated the impact of warming on maize production in China since 1980"
-align="center" width="100%"}
+:::: {.pub-card}
+::: {.pub-figure}
+![](images/Figure%20abstract%20of%20article2.jpg){alt="Graphical abstract: decadal wind-speed change offsets then aggravates warming impacts on maize production in China since 1980"}
 :::
+::: {.pub-body}
+`Zhang, Z.`, Xu, J., Zhang, Y., Zhuang, H., Li, S., Tao, F., & Zhang, Z. (2025). **Decadal changes in wind speed have offset and then aggravated the impact of warming on maize production in China since 1980.** *Nature Communications*, *16*(1), 9739.
 
-::: {.column width="50%"}
--   `Zhang, Z.`, Xu, J., Zhang, Y., Zhuang, H., Li, S., Tao, F., &
-    Zhang, Z. (2025). Decadal changes in wind speed have offset and then
-    aggravated the impact of warming on maize production in China
-    since 1980. *Nature Communications*, *16*(1), 9739.
-    https://doi.org/10.1038/s41467-025-64725-z
+[DOI](https://doi.org/10.1038/s41467-025-64725-z){.btn .btn-outline-primary .btn-sm}
 :::
-:::::
+::::
 
-----
-
-:::::: columns
-::::: columns
-::: {.column width="50%"}
-![](images/Figure%20abstract%20of%20article1.jpg){alt="Figure abstract of article Considerable energy crop production potentials in the Russian Far East"
-align="center" width="100%"}
+:::: {.pub-card}
+::: {.pub-figure}
+![](images/Figure%20abstract%20of%20article1.jpg){alt="Graphical abstract: energy crop production potential in the Russian Far East"}
 :::
+::: {.pub-body}
+`Zhang, Z.`, Xu, J., Jin, S., Zhuang, H., Li, S., Wu, X., & Zhang, Z. (2024). **Considerable energy crop production potentials in the Russian Far East.** *Biomass and Bioenergy*, *189*, 107365.
 
-::: {.column width="50%"}
--   `Zhang, Z.`, Xu, J., Jin, S., Zhuang, H., Li, S., Wu, X., &
-    Zhang, Z. (2024). Considerable energy crop production potentials in
-    the Russian Far East. *Biomass and Bioenergy*, *189*, 107365.
-    https://doi.org/10.1016/j.biombioe.2024.107365
+[DOI](https://doi.org/10.1016/j.biombioe.2024.107365){.btn .btn-outline-primary .btn-sm}
 :::
-:::::
-::::::
+::::
 
-----
+:::: {.pub-card .pub-card--text}
+::: {.pub-body}
+Zhuang, H., Zhang, Z., Han, J., Cheng, F., Li, S., Wu, H., Mei, Q., Song, J., Wu, X., `Zhang, Z.`, & Xu, J. (2024). **Stagnating rice yields in China need to be overcome by cultivars and management improvements.** *Agricultural Systems*, *221*, 104134.
 
-::: columns
--   Zhuang, H., Zhang, Z., Han, J., Cheng, F., Li, S., Wu, H., Mei, Q.,
-    Song, J., Wu, X., `Zhang, Z.`, & Xu, J. (2024). Stagnating rice
-    yields in China need to be overcome by cultivars and management
-    improvements. *Agricultural Systems*, *221*, 104134.
-    https://doi.org/10.1016/j.agsy.2024.104134
+[DOI](https://doi.org/10.1016/j.agsy.2024.104134){.btn .btn-outline-primary .btn-sm}
 :::
+::::

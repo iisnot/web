@@ -1,5 +1,6 @@
 website:
   # favicon: logo.png # 网站图标
+  repo-url: https://github.com/iisnot/web
   navbar:
     left:
       - href: index.qmd
@@ -7,7 +8,12 @@ website:
       - Publications.qmd
       - Talks.qmd
   page-footer:  ## 页脚设置
-    # background: "#ccccd6"
-    right: 
-      - text: 'Last update'
-        href: about.qmd
+    background: secondary
+    left: "&copy; Zongliang Zhang"
+    right:
+      - icon: github
+        href: https://github.com/iisnot
+        aria-label: GitHub
+      - icon: envelope-fill
+        href: "mailto:zongliang-zhang@mail.bnu.edu.cn"
+        aria-label: Email

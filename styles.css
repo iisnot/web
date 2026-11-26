@@ -1,1 +1,156 @@
 /* css styles */
+
+:root {
+  --zz-content-max: 60rem;
+}
+
+/* Keep the text column readable instead of stretching across the viewport. */
+#quarto-content.page-columns {
+  max-width: var(--zz-content-max);
+  margin-inline: auto;
+}
+
+main.content {
+  line-height: 1.7;
+}
+
+main.content h2 {
+  font-size: 1.32rem;
+  margin-top: 2.4rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+/* Hero */
+.quarto-about-jolla .about-image.round,
+.quarto-about .about-image.round {
+  border: 4px solid var(--bs-body-bg);
+  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.16);
+  object-fit: cover;
+}
+
+.quarto-about-jolla .about-links a,
+.quarto-about .about-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: 2rem;
+  border: 1px solid var(--bs-border-color);
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.quarto-about .about-links a:hover {
+  border-color: rgba(var(--bs-primary-rgb), 0.6);
+  background-color: rgba(var(--bs-primary-rgb), 0.08);
+}
+
+/* Education and talks share one vertical timeline */
+.timeline {
+  position: relative;
+  margin: 1.4rem 0 1.6rem;
+  padding-left: 1.5rem;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 0.3rem;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  width: 2px;
+  background-color: var(--bs-border-color);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.2rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.42rem;
+  top: 0.45rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background-color: var(--bs-primary);
+  box-shadow: 0 0 0 3px var(--bs-body-bg);
+}
+
+.timeline-item p:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-note {
+  font-size: 0.84em;
+  padding: 0.08em 0.45em;
+  border-radius: 0.3rem;
+  background-color: rgba(var(--bs-primary-rgb), 0.12);
+}
+
+/* Publications */
+.pub-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  gap: 1rem 1.4rem;
+  align-items: start;
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 1.3rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.6rem;
+}
+
+/* Graphical abstracts need more width than the reading column allows. */
+@media (min-width: 1200px) {
+  .pub-card {
+    margin-inline: -3.5rem;
+  }
+}
+
+.pub-card--text {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.pub-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.35rem;
+}
+
+.pub-body p:last-of-type {
+  margin-bottom: 0;
+}
+
+.pub-body .btn {
+  margin-top: 0.2rem;
+}
+
+@media (max-width: 767.98px) {
+  .pub-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Highlight the author's own name without the default pink code colour. */
+main.content code {
+  color: inherit;
+  background-color: rgba(var(--bs-primary-rgb), 0.1);
+  padding: 0.05em 0.35em;
+  border-radius: 0.25rem;
+  font-size: 0.95em;
+}
+
+a:focus-visible,
+.btn:focus-visible {
+  outline: 2px solid rgba(var(--bs-primary-rgb), 0.8);
+  outline-offset: 2px;
+}

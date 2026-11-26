@@ -1,21 +1,24 @@
 ---
 title: "Zongliang Zhang"
-image: images\profile.png
-toc: False ## 取消目录设置
+image: images/profile.png
+toc: false ## 取消目录设置
 
 about:
   id: hero-heading
   template: jolla
   links:
     - icon: pin-map-fill
-      text: Zhuhai-China
+      text: Zhuhai, China
     - icon: building-fill
-      text: Beijing normal university
+      text: Beijing Normal University
     - text: "{{< ai orcid color=#9ad251 >}} ORCID"
       href: https://orcid.org/0009-0000-3145-2606
-    - icon: envelope
+    - icon: github
+      href: https://github.com/iisnot
+      aria-label: GitHub
+    - icon: envelope-fill
       text: Email
-      href: zongliang-zhang@mail.bnu.edu.cn
+      href: "mailto:zongliang-zhang@mail.bnu.edu.cn"
 ---
 
 ::: {#hero-heading}
@@ -23,10 +26,16 @@ I am currently a third-year graduate student at Beijing Normal
 University with a research focus on food security.
 :::
 
-## **🎓**Education
+## 🎓 Education
 
-2023-09 to present \| Beijing Normal University \| Master’s student
-(School Of National Safety And Emergency Management)
+::: {.timeline}
+::: {.timeline-item}
+**Sep 2023 – Present**  
+*Beijing Normal University* — Master’s student, School of National Safety and Emergency Management
+:::
 
-2019-09 to 2023-06 \| Nanjing University of Information Science and
-Technology \| Bachelor of Science (Changwang School of Honors)
+::: {.timeline-item}
+**Sep 2019 – Jun 2023**  
+*Nanjing University of Information Science and Technology* — Bachelor of Science, Changwang School of Honors
+:::
+:::
